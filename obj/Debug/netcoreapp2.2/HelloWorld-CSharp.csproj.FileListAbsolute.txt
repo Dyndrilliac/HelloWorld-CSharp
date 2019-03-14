@@ -1,0 +1,11 @@
+/home/matthew/Documents/Git/GitHub/HelloWorld-CSharp/bin/Debug/netcoreapp2.2/HelloWorld-CSharp.deps.json
+/home/matthew/Documents/Git/GitHub/HelloWorld-CSharp/bin/Debug/netcoreapp2.2/HelloWorld-CSharp.runtimeconfig.json
+/home/matthew/Documents/Git/GitHub/HelloWorld-CSharp/bin/Debug/netcoreapp2.2/HelloWorld-CSharp.runtimeconfig.dev.json
+/home/matthew/Documents/Git/GitHub/HelloWorld-CSharp/bin/Debug/netcoreapp2.2/HelloWorld-CSharp.dll
+/home/matthew/Documents/Git/GitHub/HelloWorld-CSharp/bin/Debug/netcoreapp2.2/HelloWorld-CSharp.pdb
+/home/matthew/Documents/Git/GitHub/HelloWorld-CSharp/obj/Debug/netcoreapp2.2/HelloWorld-CSharp.csprojAssemblyReference.cache
+/home/matthew/Documents/Git/GitHub/HelloWorld-CSharp/obj/Debug/netcoreapp2.2/HelloWorld-CSharp.csproj.CoreCompileInputs.cache
+/home/matthew/Documents/Git/GitHub/HelloWorld-CSharp/obj/Debug/netcoreapp2.2/HelloWorld-CSharp.AssemblyInfoInputs.cache
+/home/matthew/Documents/Git/GitHub/HelloWorld-CSharp/obj/Debug/netcoreapp2.2/HelloWorld-CSharp.AssemblyInfo.cs
+/home/matthew/Documents/Git/GitHub/HelloWorld-CSharp/obj/Debug/netcoreapp2.2/HelloWorld-CSharp.dll
+/home/matthew/Documents/Git/GitHub/HelloWorld-CSharp/obj/Debug/netcoreapp2.2/HelloWorld-CSharp.pdb
